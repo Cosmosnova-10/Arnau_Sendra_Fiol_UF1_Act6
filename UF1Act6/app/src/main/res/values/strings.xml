@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UF1Act6</string>
+    <string name="Button">Botón que muestro Toast del valor recogido en el EditText</string>
+    <string name="Ingrese_Toast">Ingrese Toast</string>
+</resources>
